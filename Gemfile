@@ -36,7 +36,7 @@ gem 'simple_form', '>= 5.0.0'
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'capybara', '>= 3.28.0'
-  gem 'cucumber-rails', '~> 1.8', '>= 1.8.0', require: false
+  gem 'cucumber-rails', '~> 2.1', '>= 2.1.0', require: false
   gem 'database_cleaner'
   gem 'factory_bot_rails', '>= 5.0.2'
   gem 'hirb'
