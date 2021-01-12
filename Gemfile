@@ -30,7 +30,7 @@ gem 'figaro'
 gem 'font-awesome-rails', '>= 4.7.0.5'
 gem 'jquery-rails', '>= 4.4.0'
 gem 'mini_magick', '4.9.4'
-gem 'omniauth-facebook', '>= 5.0.0'
+gem 'omniauth-facebook', '>= 6.0.0'
 gem 'simple_form', '>= 5.0.0'
 
 group :development, :test do
