@@ -35,12 +35,12 @@ gem 'simple_form', '>= 5.0.0'
 
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
-  gem 'capybara', '>= 3.28.0'
+  gem 'capybara', '>= 3.33.0'
   gem 'cucumber-rails', '~> 1.8', '>= 1.8.0', require: false
   gem 'database_cleaner'
   gem 'factory_bot_rails', '>= 5.0.2'
   gem 'hirb'
-  gem 'launchy'
+  gem 'launchy', '>= 2.4.3'
   gem 'pry-rails'
   gem 'rack_session_access', '>= 0.2.0'
   gem 'rails-controller-testing', '>= 1.0.4'
