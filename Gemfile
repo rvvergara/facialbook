@@ -22,7 +22,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
 
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+gem 'bootstrap', '~> 5.0', '>= 5.0.0'
 gem 'carrierwave', '1.2.3'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'faker'
