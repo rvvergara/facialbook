@@ -11,7 +11,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 
 gem 'puma', '~> 3.12', '>= 3.12.6'
 
-gem 'sass-rails', '~> 5.1', '>= 5.1.0'
+gem 'sass-rails', '~> 6.0', '>= 6.0.0'
 
 gem 'uglifier', '>= 1.3.0'
 
@@ -22,7 +22,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
 
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+gem 'bootstrap', '~> 4.6', '>= 4.6.2.1'
 gem 'carrierwave', '1.2.3'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'faker'
@@ -36,7 +36,7 @@ gem 'simple_form', '>= 5.0.0'
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'capybara', '>= 3.28.0'
-  gem 'cucumber-rails', '~> 1.8', '>= 1.8.0', require: false
+  gem 'cucumber-rails', '~> 3.0', '>= 3.0.0', require: false
   gem 'database_cleaner'
   gem 'factory_bot_rails', '>= 5.0.2'
   gem 'hirb'
