@@ -44,7 +44,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'rack_session_access', '>= 0.2.0'
   gem 'rails-controller-testing', '>= 1.0.4'
-  gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
+  gem 'rspec-rails', '~> 8.0', '>= 8.0.0'
   gem 'selenium-webdriver', '>= 3.142.3'
   gem 'shoulda-matchers', '~> 4.0.1.0'
   gem 'webdrivers', '>= 4.1.2'
