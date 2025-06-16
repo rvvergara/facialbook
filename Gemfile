@@ -38,7 +38,7 @@ group :development, :test do
   gem 'capybara', '>= 3.28.0'
   gem 'cucumber-rails', '~> 1.8', '>= 1.8.0', require: false
   gem 'database_cleaner'
-  gem 'factory_bot_rails', '>= 5.0.2'
+  gem 'factory_bot_rails', '>= 6.5.0'
   gem 'hirb'
   gem 'launchy'
   gem 'pry-rails'
